@@ -1,0 +1,6 @@
+clean
+throw
+shower
+Clean
+Code
+Wash
