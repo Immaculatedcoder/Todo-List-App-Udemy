@@ -4,7 +4,7 @@ todos = []  # Here we create an empty list in which we would like to add our tod
 
 while True:
     user_action = input("Type add, show, or exit: ")
-    user_action = user_action.strip() # The strip is used to make account for users who include space at the end or beginning of thier text.
+    user_action = user_action.strip() # The strip is used to make account for users who include space at the end or beginning of their text.
 
     match user_action:
         case 'add':
